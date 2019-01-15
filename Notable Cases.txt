@@ -1,0 +1,35 @@
+Notable cases where DP outshines TT:
+  Example 4 (4)
+  PLA 5 (10)
+  PLA 12 (17)
+  PLA 14 (19)
+  PLA 20 (25)
+  PLAfP 4 (29)
+  PLAfP 12 (37)
+  PLAfP 19 (44)
+  PLAfP 20 (45)
+  
+  4, 10, and 17 have relatively few NOTs in the DNS form
+  25, 37, 44, 45 all have >5 clauses
+
+Notable cases where TT outshines DP:
+  Example 5 (5)
+  PLA 2 (7)
+  PLA 3 (8)
+  PLA 4 (9)
+  PLA 7 (12)
+  PLA 11 (16)
+  PLA 18 (23)
+  PLA 19 (24)
+  PLAfP 1 (26)
+  PLAfP 2 (27)
+  PLAfP 3 (28)
+  PLAfP 5 (30)
+  PLAfP 6 (31)
+  PLAfP 7 (32)
+  PLAfP 9 (34)
+  PLAfP 10 (35)
+  PLAfP 11 (36)
+  PLAfP 18 (43)
+  
+  5, 7, 8, 9, 12, 23, 24, 30, 31, 32, 35, 36, 43 all have a lot of NOTs

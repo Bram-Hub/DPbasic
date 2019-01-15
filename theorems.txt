@@ -1,0 +1,363 @@
+A 0 B
+end
+
+A 0 NOT A 
+end
+
+P Q 0
+P NOT Q 0
+NOT P Q 0
+NOT P NOT Q
+end
+
+NOT A B 0
+NOT C D 0
+A C 0
+B D 0
+end
+
+NOT A B 0
+NOT C D 0
+NOT B NOT D 0
+NOT A NOT B
+end
+
+
+
+
+
+
+
+
+
+NOT A B 0
+NOT A C 0
+NOT C B 0
+NOT B C 0
+NOT C 0
+A
+end
+
+NOT K H 0
+NOT H L 0
+NOT L M 0
+K 0
+NOT M
+end
+
+B A 0
+B NOT B 0
+NOT A A 0
+NOT A NOT B 0
+NOT A 0
+NOT B 0
+NOT C C
+end
+
+A 0
+B C 0
+NOT H C 0
+NOT H 0
+NOT A NOT B
+end
+
+NOT F G 0
+G NOT F 0
+G 0
+NOT F
+end
+
+A 0
+NOT B C 0
+NOT A NOT B 0
+NOT A NOT C
+end
+
+NOT H A NOT C 0
+NOT H A NOT D 0
+D 0
+H 0
+NOT A
+end
+
+NOT J 0
+NOT M 0
+NOT M J 0
+M 0
+NOT J M 0
+M 0
+NOT J
+end
+
+A B 0
+NOT B B 0
+A NOT A 0
+NOT B NOT A 0
+NOT A NOT B 0
+B NOT B 0
+NOT A A 0
+B A
+end
+
+P 0
+NOT P
+end
+
+NOT M NOT K B 0
+K NOT M 0
+L 0
+M 0
+NOT B
+end
+
+J L 0
+NOT K L 0
+J M 0
+NOT K M 0
+J 0
+NOT K 0
+L 0
+M
+end
+
+A B 0
+NOT A NOT B
+end
+
+NOT D NOT K NOT M K 0
+NOT D NOT K NOT K M 0
+M NOT K 0
+D NOT K NOT D 0
+NOT M
+end
+
+B 0
+K Z 0
+Z K 0
+B NOT Z Z 0
+NOT Z NOT Z Z 0
+B NOT Z NOT B 0
+NOT Z NOT Z NOT B 0
+NOT K 0
+NOT M NOT N
+end
+
+NOT D NOT G 0
+G D 0
+G 0
+NOT G NOT D 0
+A NOT A NOT D 0
+NOT D NOT A NOT D 0
+G 0
+D
+end
+
+NOT J NOT T J 0
+NOT T NOT J T 0
+J T
+end
+
+A 0
+NOT B C 0
+NOT A NOT C 0
+NOT A B
+end
+
+A 0
+NOT B NOT C 0
+NOT B 0
+NOT A 0
+NOT C 0
+NOT A
+end
+
+NOT G H G H 0
+NOT G H NOT H NOT G 0
+NOT H G G H 0
+NOT H G NOT H NOT G 0
+NOT G NOT H 0
+NOT G G 0
+H NOT H 0
+H G 0
+NOT G H 0
+NOT H G
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOT M I 0
+NOT I 0
+L 0
+M B 0
+NOT B
+end
+
+Q NOT J D 0
+Q NOT D J 0
+NOT D 0
+J 0
+NOT Q
+end
+
+A B 0
+NOT B C 0
+NOT C 0
+NOT A
+end
+
+NOT H J K 0
+NOT K NOT I 0
+H I NOT J
+end
+
+R 0
+C 0
+NOT F 0
+NOT W NOT R 0
+NOT W NOT S 0
+W
+end
+
+NOT A B 0
+NOT A C 0
+NOT C 0
+A 0
+D
+end
+
+NOT A B 0
+NOT B A 0
+NOT B C 0
+NOT C B 0
+C A 0
+C NOT C 0
+NOT A NOT C 0
+NOT A A
+end
+
+NOT F G 0
+NOT G F 0
+F G 0
+NOT F NOT G
+end
+
+B Z 0
+NOT Z NOT B 0
+NOT N B 0
+Z 0
+N 0
+H
+end
+
+NOT A B 0
+NOT B A 0
+NOT B NOT C 0
+C B 0
+C A 0
+C NOT C 0
+NOT A NOT C 0
+NOT A A
+end
+
+A B 0
+NOT C 0
+C D 0
+C NOT A 0
+NOT B A E 0
+NOT E 0
+NOT F
+end
+
+NOT G H 0
+NOT G NOT K 0
+NOT H L 0
+NOT H I 0
+NOT L NOT I H 0
+NOT I K 0
+G
+end
+
+NOT R NOT A 0
+NOT R T 0
+B NOT S 0
+B S 0
+A 0
+NOT B
+end
+
+S NOT R 0
+S T 0
+NOT R NOT S 0
+R
+end
+
+NOT K R NOT L 0
+NOT K R NOT M 0
+NOT R T 0
+NOT S T 0
+K 0
+M 0
+NOT T
+end
+
+R P 0
+P Q 0
+NOT Q NOT R NOT V W 0
+NOT P S 0
+NOT S W 0
+NOT W 0
+V 0
+NOT S
+end
+
+NOT A NOT B C 0
+A C 0
+B 0
+NOT C
+end
+
+F G 0
+H 0
+NOT I F 0
+NOT H NOT F 0
+NOT G I
+end
+
+R L 0
+NOT M L 0
+NOT N M 0
+NOT M T 0
+NOT S M 0
+NOT S T 0
+P L 0
+NOT R L 0
+NOT T NOT N 0
+NOT T NOT K 0
+NOT L
+end
+
+NOT N P 0
+NOT P N 0
+NOT N R NOT P R 0
+NOT N R N 0
+NOT N R NOT R 0
+NOT P R P 0
+NOT P R NOT R 0
+P N 0
+P NOT R 0
+NOT R N 0
+NOT R NOT R
+end
+OVER
